@@ -6,7 +6,7 @@ backcall==0.2.0
 Box2D==2.3.10
 box2d-py==2.3.8
 cached-property==1.5.2
-certifi==2021.10.8
+certifi==2022.12.7
 charset-normalizer==2.0.12
 cloudpickle==2.0.0
 colorama==0.4.4
